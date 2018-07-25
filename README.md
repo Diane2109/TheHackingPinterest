@@ -1,10 +1,10 @@
-#README
+#README De THE HACKING PINTEREST
 
 ## Application Pinterest
 
-Salut moussaillon tu vas bien?
+Salut moussaillon tu vas bien ?
 
-Dans ce README il y a un exo d'une app rails de type Pinterest, avec  des models et des associations.
+Dans ce README il y a un exo d'une app rails de type Pinterest, avec  des models et des associations. Il a été fait par Diane en collab avec Garance !
 
 ### Lancer l'appli
 Télécharge ou clone le repo 
